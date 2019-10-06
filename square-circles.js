@@ -19,3 +19,4 @@ function draw() {
   x = x.slice(-50); // remove all but the last 50 x values
   y = y.slice(-50); // remove all but the last 50 y values
 }
+
